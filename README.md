@@ -7,7 +7,7 @@
  <br>
 
 <p align="center">
- <img src=/BaggerFast/BaggerFast/raw/main/assets/github-snake.svg width="600" src="assets/github-snake.svg" alt="snake"/>
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
 <details align="left">
@@ -15,8 +15,9 @@
   <p>
    <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaggerFast&layout=compact&theme=dark" />  
    <br>
-   <img alt="codeSTACKr's GitHub Stats" src="/BaggerFast/BaggerFast/raw/main/assets/github-snake.svg" />
+   <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BaggerFast&show_icons=true&theme=dark" />
    <br>
-   <img src="/BaggerFast/BaggerFast/raw/main/assets/github-snake.svg" />
+   <img src="https://metrics.lecoq.io/baggerfast" />
   </p>
 </details>
+
