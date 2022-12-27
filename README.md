@@ -1,4 +1,4 @@
-<h1 align="center">BANAN</h1>
+<h1 align="center">ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴘʀᴏғɪʟᴇ.ᴇxᴇ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⎯⠀❐⠀⤬</h1>
 
 <h3 align="center">Python Developer</h3>
 <p align="center">
