@@ -7,7 +7,7 @@
  <br>
 
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <img src=/BaggerFast/BaggerFast/raw/main/assets/github-snake.svg width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
 <details align="left">
