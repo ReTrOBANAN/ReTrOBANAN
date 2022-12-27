@@ -1,4 +1,4 @@
-<h1 align="center">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 ＢＡＮＡＮ</h1>
+<h1 align="center">ＢＡＮＡＮ</h1>
 
 <h3 align="center">Python Developer</h3>
 <p align="center">
