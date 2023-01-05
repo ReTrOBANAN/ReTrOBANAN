@@ -9,7 +9,7 @@
 <details align="left">
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
   <p>
-   <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaggerFast&layout=compact&theme=dark" />  
+   <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReTrOBANAN&layout=compact&theme=dark" />  
    <br>
    <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BaggerFast&show_icons=true&theme=dark" />
    <br>
