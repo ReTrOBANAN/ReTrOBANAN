@@ -6,10 +6,6 @@
  <a href="https://tlgg.ru/BaggerFast"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white" /></a>
  <br>
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
 <details align="left">
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
   <p>
