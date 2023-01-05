@@ -1,6 +1,6 @@
 <h3 align="center">Python Developer</h3>
 <p align="center">
-<a href="https://t.me/ReTrOBANAN"><img height="20em" src="https://telegra.ph/file/6dab703f0e680b0ed613f.png" alt = "Telegram"/></a>
+Contact : <a href="https://t.me/ReTrOBANAN"><img height="20em" src="https://telegra.ph/file/6dab703f0e680b0ed613f.png" alt = "Telegram"/></a>
 <br/><br/><br/></a>
 
 
