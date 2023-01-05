@@ -1,19 +1,24 @@
-<h1 align="center">👋 𝙷𝚎𝚕𝚕𝚘 ! 𝙸'𝚖 𝙱𝙰𝙽𝙰𝙽</h1>
+📫 How to reach me: <a href="https://t.me/latand"><img height="30em" src="https://telegra.ph/file/6dab703f0e680b0ed613f.png" alt = "Telegram"/></a>
+<br/><br/><br/>
 
-<h3 align="center">Python Developer</h3>
-<p align="center">
- <a href="https://www.youtube.com/channel/UCNrRkCTcOGKAvg45I-hX-3g"><img src="https://img.shields.io/badge/-YouTube-red?style=flat&logo=YouTube&logoColor=white"/></a>
- <a href="https://tlgg.ru/BaggerFast"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white" /></a>
- <br>
 
-<details align="left">
-  <summary><h2><b>⭐GitHub stats</b></h2></summary>
-  <p>
-   <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReTrOBANAN&layout=compact&theme=dark" />  
-   <br>
-   <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BaggerFast&show_icons=true&theme=dark" />
-   <br>
-   <img src="https://metrics.lecoq.io/baggerfast" />
-  </p>
-</details>
+<!--
+**Latand/Latand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+
+
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=latand&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="Latand" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=latand&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Latand" align = "center"/></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=latand&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Latand" /></p>
